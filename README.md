@@ -31,7 +31,7 @@ or in bib format:
 ```
 Python 3.6
 Tensorflow == 1.12.0
-pandas ==0.23.0
+pandas == 0.23.0
 scikit-learn == 0.19.1
 numpy == 1.14.3
 ```
