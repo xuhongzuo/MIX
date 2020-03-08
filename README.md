@@ -7,6 +7,7 @@ clustered and scattered outliers in mixed-type data"** and published in ICDM19.
 ## Citation
 Please cite our paper if you find this code is useful.  
 Xu, H., Wang, Y., Wang, Y., & Wu, Z. (2019, November). MIX: A Joint Learning Framework for Detecting Both Clustered and Scattered Outliers in Mixed-Type Data. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 1408-1413). IEEE.  
+  
 or in bib format:
 ```
 @inproceedings{xu2019mix,
