@@ -1,6 +1,10 @@
 # MIX
 ICDM19 - Anomaly Detection / Outlier Detection for Mixed data
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mix-a-joint-learning-framework-for-detecting/outlier-detection-on-ad)](https://paperswithcode.com/sota/outlier-detection-on-ad?p=mix-a-joint-learning-framework-for-detecting)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mix-a-joint-learning-framework-for-detecting/outlier-detection-on-heart-c)](https://paperswithcode.com/sota/outlier-detection-on-heart-c?p=mix-a-joint-learning-framework-for-detecting)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mix-a-joint-learning-framework-for-detecting/outlier-detection-on-hepatitis)](https://paperswithcode.com/sota/outlier-detection-on-hepatitis?p=mix-a-joint-learning-framework-for-detecting)
+
 This is the source code of the paper named **"MIX: A joint learning framework for detecting outliers in both
 clustered and scattered outliers in mixed-type data"** and published in ICDM19.
 
